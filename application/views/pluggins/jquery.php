@@ -1,0 +1,1 @@
+<script src="<?php echo base_url('assets/template/js') ?>/vendor/jquery-1.12.4.min.js"></script>
